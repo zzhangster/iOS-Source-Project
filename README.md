@@ -1,9 +1,9 @@
 ## iOS Source Project
 
-![alt tag](https://raw.github.com/zzhangster/iOS-Source-Project/master/example-image-01.png)
-![alt tag](https://raw.github.com/zzhangster/iOS-Source-Project/master/example-image-02.png)
-![alt tag](https://raw.github.com/zzhangster/iOS-Source-Project/master/example-image-03.png)
-![alt tag](https://raw.github.com/zzhangster/iOS-Source-Project/master/example-image-04.png)
+![alt tag](https://raw.githubusercontent.com/zzhangster/iOS-Source-Project/master/example-image-01.png)
+![alt tag](https://raw.githubusercontent.com/zzhangster/iOS-Source-Project/master/example-image-02.png)
+![alt tag](https://raw.githubusercontent.com/zzhangster/iOS-Source-Project/master/example-image-03.png)
+![alt tag](https://raw.githubusercontent.com/zzhangster/iOS-Source-Project/master/example-image-04.png)
 
 The Source Project is an education guide to creating interactive animations
 and gameplay that mimics popular/trending apps in the iOS ecosystem. The
