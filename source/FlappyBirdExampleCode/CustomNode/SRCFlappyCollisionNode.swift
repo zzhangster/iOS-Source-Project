@@ -39,7 +39,7 @@ class SRCFlappyCollisionNode:SRCFlappyBaseNode {
     * Init With NSCoder
     * -----------------------------------------
     *==========================================*/
-    override init(coder aDecoder: NSCoder) {
+    override init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
         self._mVelocity = CGVectorMake(0, 0);
     }

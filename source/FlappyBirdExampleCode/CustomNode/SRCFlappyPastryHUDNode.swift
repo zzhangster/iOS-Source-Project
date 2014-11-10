@@ -68,7 +68,7 @@ class SRCFlappyPastryHUDNode:SKNode {
     * Init With NSCoder
     * -----------------------------------------
     *==========================================*/
-    required init(coder aDecoder: NSCoder) {
+    required init?(coder aDecoder: NSCoder) {
         // Super Init
         super.init(coder: aDecoder);
     }
